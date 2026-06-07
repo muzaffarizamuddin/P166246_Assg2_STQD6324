@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # =============================================================================
 # hbase_analysis.py
-# Assignment 2 | STQD6324 | P166246
+# Assignment 2 | STQD6324 | P166246 | Muzaffar Izamuddin
 #
 # HBase Optional Extension — Genre-Based Movie Recommendations
 #
