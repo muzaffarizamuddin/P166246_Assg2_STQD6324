@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # =============================================================================
 # average_rating.py
-# Assignment 2 | STQD6324 | P166246
+# Assignment 2 | STQD6324 | P166246 Muzaffar Izamuddin
 #
 # Tasks:
 #   i)  Calculate the average rating for each movie

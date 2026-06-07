@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # =============================================================================
 # users_analysis.py
-# Assignment 2 | STQD6324 | P166246
+# Assignment 2 | STQD6324 | P166246 | Muzaffar Izamuddin 
 #
 # Tasks:
 #   iii) Users who rated >= 50 movies and their favourite genre
