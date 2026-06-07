@@ -40,7 +40,8 @@ Key Visualization: Distribution of Active Users across Genre
 | 3.2.3 | Task iii viz | Bar chart + pie chart of favourite genres among active users |
 | 3.2.4 | Task iv viz | User group under-20 users |
 | 3.2.5 | Task v viz | User group scientists 30–40 |
-| 4.0 | Conclusion | Conclusion + HBase optional extension note |
+| 4.0 | Conclusion | Conclusion |
+| 4.1 | Hbase Extension | HBase optional extension note |
 
 ---
 ## Tech Stack
