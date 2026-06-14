@@ -1,0 +1,945 @@
+user_id,favorite_genre,blacklisted_movies.0.title,blacklisted_movies.0.global_avg_rating
+0,War,McHale's Navy (1997),2.1884
+1,Drama,Free Willy 3: The Rescue (1997),1.7407
+2,Drama,Free Willy 3: The Rescue (1997),1.7407
+3,Drama,Free Willy 3: The Rescue (1997),1.7407
+4,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+5,Comedy,Ed (1996),1.3333
+6,Drama,Free Willy 3: The Rescue (1997),1.7407
+7,Drama,Free Willy 3: The Rescue (1997),1.7407
+8,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+9,Drama,Free Willy 3: The Rescue (1997),1.7407
+10,Drama,Free Willy 3: The Rescue (1997),1.7407
+11,Drama,Free Willy 3: The Rescue (1997),1.7407
+12,Drama,Free Willy 3: The Rescue (1997),1.7407
+13,Drama,Dangerous Ground (1997),1.75
+14,Drama,Free Willy 3: The Rescue (1997),1.7407
+15,Drama,Free Willy 3: The Rescue (1997),1.7407
+16,Drama,Free Willy 3: The Rescue (1997),1.7407
+17,Drama,Free Willy 3: The Rescue (1997),1.7407
+18,Drama,Free Willy 3: The Rescue (1997),1.7407
+19,Comedy,Ed (1996),1.3333
+20,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+21,Thriller,Robocop 3 (1993),1.7273
+22,Comedy,Ed (1996),1.3333
+23,Drama,Free Willy 3: The Rescue (1997),1.7407
+24,Drama,Free Willy 3: The Rescue (1997),1.7407
+25,Comedy,Ed (1996),1.3333
+26,Drama,Free Willy 3: The Rescue (1997),1.7407
+27,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+28,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+29,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+30,Comedy,Ed (1996),1.3333
+31,Drama,Free Willy 3: The Rescue (1997),1.7407
+32,Comedy,Ed (1996),1.3333
+33,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+34,Drama,Free Willy 3: The Rescue (1997),1.7407
+35,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+36,Drama,Free Willy 3: The Rescue (1997),1.7407
+37,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+38,Comedy,Ed (1996),1.3333
+39,Drama,Free Willy 3: The Rescue (1997),1.7407
+40,Drama,Free Willy 3: The Rescue (1997),1.7407
+41,Drama,Free Willy 3: The Rescue (1997),1.7407
+42,Drama,Free Willy 3: The Rescue (1997),1.7407
+43,Comedy,Ed (1996),1.3333
+44,Drama,Free Willy 3: The Rescue (1997),1.7407
+45,Comedy,Ed (1996),1.3333
+46,Drama,Free Willy 3: The Rescue (1997),1.7407
+47,Drama,Free Willy 3: The Rescue (1997),1.7407
+48,Drama,Free Willy 3: The Rescue (1997),1.7407
+49,Comedy,Ed (1996),1.3333
+50,Drama,Free Willy 3: The Rescue (1997),1.7407
+51,Adventure,Free Willy 3: The Rescue (1997),1.7407
+52,Drama,Free Willy 3: The Rescue (1997),1.7407
+53,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+54,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+55,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+56,Comedy,Ed (1996),1.3333
+57,Comedy,Ed (1996),1.3333
+58,Drama,Free Willy 3: The Rescue (1997),1.7407
+59,Drama,Free Willy 3: The Rescue (1997),1.7407
+60,Drama,Free Willy 3: The Rescue (1997),1.7407
+61,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+62,Drama,Free Willy 3: The Rescue (1997),1.7407
+63,Drama,Free Willy 3: The Rescue (1997),1.7407
+64,Drama,Free Willy 3: The Rescue (1997),1.7407
+65,Drama,Free Willy 3: The Rescue (1997),1.7407
+66,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+67,Comedy,Ed (1996),1.3333
+68,Drama,Free Willy 3: The Rescue (1997),1.7407
+69,Drama,Free Willy 3: The Rescue (1997),1.7407
+70,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+71,Drama,Free Willy 3: The Rescue (1997),1.7407
+72,Drama,Free Willy 3: The Rescue (1997),1.7407
+73,Drama,Free Willy 3: The Rescue (1997),1.7407
+74,Drama,Free Willy 3: The Rescue (1997),1.7407
+75,Comedy,Ed (1996),1.3333
+76,Drama,Free Willy 3: The Rescue (1997),1.7407
+77,Drama,Free Willy 3: The Rescue (1997),1.7407
+78,Comedy,Ed (1996),1.3333
+79,Drama,Free Willy 3: The Rescue (1997),1.7407
+80,Drama,Free Willy 3: The Rescue (1997),1.7407
+81,Comedy,Ed (1996),1.3333
+82,Drama,Free Willy 3: The Rescue (1997),1.7407
+83,Comedy,Ed (1996),1.3333
+84,Drama,Free Willy 3: The Rescue (1997),1.7407
+85,Drama,Free Willy 3: The Rescue (1997),1.7407
+86,Drama,Free Willy 3: The Rescue (1997),1.7407
+87,Comedy,Ed (1996),1.3333
+88,Drama,Free Willy 3: The Rescue (1997),1.7407
+89,Drama,Free Willy 3: The Rescue (1997),1.7407
+90,Drama,Free Willy 3: The Rescue (1997),1.7407
+91,Drama,Free Willy 3: The Rescue (1997),1.7407
+92,Drama,Free Willy 3: The Rescue (1997),1.7407
+93,Comedy,Ed (1996),1.3333
+94,Drama,Free Willy 3: The Rescue (1997),1.7407
+95,Drama,Free Willy 3: The Rescue (1997),1.7407
+96,Drama,Free Willy 3: The Rescue (1997),1.7407
+97,Drama,Free Willy 3: The Rescue (1997),1.7407
+98,Comedy,Ed (1996),1.3333
+99,Drama,Free Willy 3: The Rescue (1997),1.7407
+100,Drama,Free Willy 3: The Rescue (1997),1.7407
+101,Comedy,Ed (1996),1.3333
+102,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+103,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+104,Drama,Free Willy 3: The Rescue (1997),1.7407
+105,Drama,Free Willy 3: The Rescue (1997),1.7407
+106,Drama,Free Willy 3: The Rescue (1997),1.7407
+107,Drama,Free Willy 3: The Rescue (1997),1.7407
+108,Drama,Free Willy 3: The Rescue (1997),1.7407
+109,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+110,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+111,Drama,Free Willy 3: The Rescue (1997),1.7407
+112,Drama,Free Willy 3: The Rescue (1997),1.7407
+113,Drama,Free Willy 3: The Rescue (1997),1.7407
+114,Drama,Free Willy 3: The Rescue (1997),1.7407
+115,Drama,Free Willy 3: The Rescue (1997),1.7407
+116,Drama,Free Willy 3: The Rescue (1997),1.7407
+117,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+118,Drama,Free Willy 3: The Rescue (1997),1.7407
+119,Drama,Free Willy 3: The Rescue (1997),1.7407
+120,Drama,Free Willy 3: The Rescue (1997),1.7407
+121,Drama,Free Willy 3: The Rescue (1997),1.7407
+122,Drama,Free Willy 3: The Rescue (1997),1.7407
+123,Drama,Free Willy 3: The Rescue (1997),1.7407
+124,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+125,Comedy,Ed (1996),1.3333
+126,Drama,Free Willy 3: The Rescue (1997),1.7407
+127,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+128,Drama,Free Willy 3: The Rescue (1997),1.7407
+129,Drama,Free Willy 3: The Rescue (1997),1.7407
+130,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+131,Drama,Free Willy 3: The Rescue (1997),1.7407
+132,Drama,Free Willy 3: The Rescue (1997),1.7407
+133,Drama,Free Willy 3: The Rescue (1997),1.7407
+134,Drama,Free Willy 3: The Rescue (1997),1.7407
+135,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+136,Drama,Free Willy 3: The Rescue (1997),1.7407
+137,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+138,Drama,Free Willy 3: The Rescue (1997),1.7407
+139,Drama,Free Willy 3: The Rescue (1997),1.7407
+140,Drama,Free Willy 3: The Rescue (1997),1.7407
+141,Comedy,Ed (1996),1.3333
+142,Comedy,Ed (1996),1.3333
+143,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+144,Drama,Free Willy 3: The Rescue (1997),1.7407
+145,Drama,Free Willy 3: The Rescue (1997),1.7407
+146,Drama,Free Willy 3: The Rescue (1997),1.7407
+147,Drama,Free Willy 3: The Rescue (1997),1.7407
+148,Drama,Free Willy 3: The Rescue (1997),1.7407
+149,Drama,Free Willy 3: The Rescue (1997),1.7407
+150,Drama,Free Willy 3: The Rescue (1997),1.7407
+151,Drama,Free Willy 3: The Rescue (1997),1.7407
+152,Comedy,Ed (1996),1.3333
+153,Drama,Free Willy 3: The Rescue (1997),1.7407
+154,Drama,Free Willy 3: The Rescue (1997),1.7407
+155,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+156,Drama,Free Willy 3: The Rescue (1997),1.7407
+157,Drama,Free Willy 3: The Rescue (1997),1.7407
+158,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+159,Comedy,Ed (1996),1.3333
+160,Drama,Free Willy 3: The Rescue (1997),1.7407
+161,Drama,Free Willy 3: The Rescue (1997),1.7407
+162,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+163,Drama,Free Willy 3: The Rescue (1997),1.7407
+164,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+165,Drama,Free Willy 3: The Rescue (1997),1.7407
+166,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+167,Drama,Free Willy 3: The Rescue (1997),1.7407
+168,Comedy,Ed (1996),1.3333
+169,Drama,Free Willy 3: The Rescue (1997),1.7407
+170,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+171,Drama,Free Willy 3: The Rescue (1997),1.7407
+172,Drama,Free Willy 3: The Rescue (1997),1.7407
+173,Drama,Free Willy 3: The Rescue (1997),1.7407
+174,Comedy,Ed (1996),1.3333
+175,Drama,Free Willy 3: The Rescue (1997),1.7407
+176,Drama,Free Willy 3: The Rescue (1997),1.7407
+177,Drama,Free Willy 3: The Rescue (1997),1.7407
+178,Drama,Free Willy 3: The Rescue (1997),1.7407
+179,Drama,Free Willy 3: The Rescue (1997),1.7407
+180,Drama,Free Willy 3: The Rescue (1997),1.7407
+181,Drama,Showgirls (1995),1.9565
+182,Drama,Free Willy 3: The Rescue (1997),1.7407
+183,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+184,Drama,Free Willy 3: The Rescue (1997),1.7407
+185,Drama,Free Willy 3: The Rescue (1997),1.7407
+186,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+187,Drama,Free Willy 3: The Rescue (1997),1.7407
+188,Drama,Free Willy 3: The Rescue (1997),1.7407
+189,Drama,Free Willy 3: The Rescue (1997),1.7407
+190,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+191,Drama,Free Willy 3: The Rescue (1997),1.7407
+192,Drama,Free Willy 3: The Rescue (1997),1.7407
+193,Comedy,Ed (1996),1.3333
+194,Drama,Free Willy 3: The Rescue (1997),1.7407
+195,Drama,Free Willy 3: The Rescue (1997),1.7407
+196,Comedy,Ed (1996),1.3333
+197,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+198,Drama,Free Willy 3: The Rescue (1997),1.7407
+199,Drama,Free Willy 3: The Rescue (1997),1.7407
+200,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+201,Drama,Free Willy 3: The Rescue (1997),1.7407
+202,Drama,Free Willy 3: The Rescue (1997),1.7407
+203,Drama,Free Willy 3: The Rescue (1997),1.7407
+204,Drama,Free Willy 3: The Rescue (1997),1.7407
+205,Drama,Free Willy 3: The Rescue (1997),1.7407
+206,Drama,Free Willy 3: The Rescue (1997),1.7407
+207,Drama,Free Willy 3: The Rescue (1997),1.7407
+208,Comedy,Ed (1996),1.3333
+209,Drama,Free Willy 3: The Rescue (1997),1.7407
+210,Comedy,Ed (1996),1.3333
+211,Drama,Dangerous Ground (1997),1.75
+212,Drama,Free Willy 3: The Rescue (1997),1.7407
+213,Drama,Free Willy 3: The Rescue (1997),1.7407
+214,Drama,Free Willy 3: The Rescue (1997),1.7407
+215,Drama,Free Willy 3: The Rescue (1997),1.7407
+216,Drama,Free Willy 3: The Rescue (1997),1.7407
+217,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+218,Comedy,Ed (1996),1.3333
+219,Drama,Free Willy 3: The Rescue (1997),1.7407
+220,Drama,Free Willy 3: The Rescue (1997),1.7407
+221,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+222,Comedy,Ed (1996),1.3333
+223,Comedy,Ed (1996),1.3333
+224,Drama,Free Willy 3: The Rescue (1997),1.7407
+225,Drama,Free Willy 3: The Rescue (1997),1.7407
+226,Drama,Free Willy 3: The Rescue (1997),1.7407
+227,Drama,Free Willy 3: The Rescue (1997),1.7407
+228,Drama,Free Willy 3: The Rescue (1997),1.7407
+229,Drama,Free Willy 3: The Rescue (1997),1.7407
+230,Drama,Free Willy 3: The Rescue (1997),1.7407
+231,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+232,Drama,Free Willy 3: The Rescue (1997),1.7407
+233,Drama,Free Willy 3: The Rescue (1997),1.7407
+234,Drama,Free Willy 3: The Rescue (1997),1.7407
+235,Drama,Free Willy 3: The Rescue (1997),1.7407
+236,Drama,Free Willy 3: The Rescue (1997),1.7407
+237,Drama,Free Willy 3: The Rescue (1997),1.7407
+238,Comedy,Ed (1996),1.3333
+239,Drama,Free Willy 3: The Rescue (1997),1.7407
+240,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+241,Drama,Free Willy 3: The Rescue (1997),1.7407
+242,Drama,Free Willy 3: The Rescue (1997),1.7407
+243,Drama,Free Willy 3: The Rescue (1997),1.7407
+244,Comedy,Ed (1996),1.3333
+245,Comedy,Ed (1996),1.3333
+246,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+247,Drama,Free Willy 3: The Rescue (1997),1.7407
+248,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+249,Drama,Free Willy 3: The Rescue (1997),1.7407
+250,Drama,Free Willy 3: The Rescue (1997),1.7407
+251,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+252,Drama,Free Willy 3: The Rescue (1997),1.7407
+253,Drama,Free Willy 3: The Rescue (1997),1.7407
+254,Childrens,3 Ninjas: High Noon At Mega Mountain (1998),1
+255,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+256,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+257,Drama,Free Willy 3: The Rescue (1997),1.7407
+258,Drama,Free Willy 3: The Rescue (1997),1.7407
+259,Drama,Free Willy 3: The Rescue (1997),1.7407
+260,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+261,Comedy,Ed (1996),1.3333
+262,Drama,Free Willy 3: The Rescue (1997),1.7407
+263,Drama,Free Willy 3: The Rescue (1997),1.7407
+264,Comedy,Ed (1996),1.3333
+265,Drama,Free Willy 3: The Rescue (1997),1.7407
+266,Drama,Free Willy 3: The Rescue (1997),1.7407
+267,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+268,Comedy,Ed (1996),1.3333
+269,Drama,Free Willy 3: The Rescue (1997),1.7407
+270,Drama,Free Willy 3: The Rescue (1997),1.7407
+271,Drama,Free Willy 3: The Rescue (1997),1.7407
+272,Drama,Free Willy 3: The Rescue (1997),1.7407
+273,Drama,Free Willy 3: The Rescue (1997),1.7407
+274,Drama,Free Willy 3: The Rescue (1997),1.7407
+275,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+276,Drama,Free Willy 3: The Rescue (1997),1.7407
+277,Drama,Free Willy 3: The Rescue (1997),1.7407
+278,Drama,Free Willy 3: The Rescue (1997),1.7407
+279,Comedy,Ed (1996),1.3333
+280,Drama,Free Willy 3: The Rescue (1997),1.7407
+281,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+282,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+283,Comedy,Ed (1996),1.3333
+284,Drama,Free Willy 3: The Rescue (1997),1.7407
+285,Drama,Free Willy 3: The Rescue (1997),1.7407
+286,Comedy,Ed (1996),1.3333
+287,Comedy,Ed (1996),1.3333
+288,Drama,Free Willy 3: The Rescue (1997),1.7407
+289,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+290,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+291,Comedy,Ed (1996),1.3333
+292,Drama,Free Willy 3: The Rescue (1997),1.7407
+293,Drama,Free Willy 3: The Rescue (1997),1.7407
+294,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+295,Drama,Free Willy 3: The Rescue (1997),1.7407
+296,Drama,Free Willy 3: The Rescue (1997),1.7407
+297,Drama,Free Willy 3: The Rescue (1997),1.7407
+298,Drama,Free Willy 3: The Rescue (1997),1.7407
+299,Drama,Free Willy 3: The Rescue (1997),1.7407
+300,Comedy,Ed (1996),1.3333
+301,Comedy,Ed (1996),1.3333
+302,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+303,Comedy,Ed (1996),1.3333
+304,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+305,Drama,Free Willy 3: The Rescue (1997),1.7407
+306,Drama,Free Willy 3: The Rescue (1997),1.7407
+307,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+308,Drama,Free Willy 3: The Rescue (1997),1.7407
+309,Drama,Free Willy 3: The Rescue (1997),1.7407
+310,Romance,Vampire in Brooklyn (1995),1.8333
+311,Drama,Free Willy 3: The Rescue (1997),1.7407
+312,Drama,Free Willy 3: The Rescue (1997),1.7407
+313,Drama,Free Willy 3: The Rescue (1997),1.7407
+314,Comedy,Ed (1996),1.3333
+315,Drama,Free Willy 3: The Rescue (1997),1.7407
+316,Drama,Free Willy 3: The Rescue (1997),1.7407
+317,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+318,Comedy,Ed (1996),1.3333
+319,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+320,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+321,Drama,Free Willy 3: The Rescue (1997),1.7407
+322,Drama,Free Willy 3: The Rescue (1997),1.7407
+323,Drama,Free Willy 3: The Rescue (1997),1.7407
+324,Drama,Free Willy 3: The Rescue (1997),1.7407
+325,Drama,Free Willy 3: The Rescue (1997),1.7407
+326,Drama,Free Willy 3: The Rescue (1997),1.7407
+327,Drama,Free Willy 3: The Rescue (1997),1.7407
+328,Drama,Free Willy 3: The Rescue (1997),1.7407
+329,Drama,Free Willy 3: The Rescue (1997),1.7407
+330,Comedy,Ed (1996),1.3333
+331,Drama,Free Willy 3: The Rescue (1997),1.7407
+332,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+333,Comedy,Ed (1996),1.3333
+334,Drama,Free Willy 3: The Rescue (1997),1.7407
+335,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+336,Comedy,Ed (1996),1.3333
+337,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+338,Comedy,Ed (1996),1.3333
+339,Drama,Free Willy 3: The Rescue (1997),1.7407
+340,Comedy,Ed (1996),1.3333
+341,Comedy,Ed (1996),1.3333
+342,Drama,Free Willy 3: The Rescue (1997),1.7407
+343,Drama,Free Willy 3: The Rescue (1997),1.7407
+344,Drama,Free Willy 3: The Rescue (1997),1.7407
+345,Drama,Free Willy 3: The Rescue (1997),1.7407
+346,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+347,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+348,Comedy,Ed (1996),1.3333
+349,Drama,Free Willy 3: The Rescue (1997),1.7407
+350,Drama,Free Willy 3: The Rescue (1997),1.7407
+351,Drama,Free Willy 3: The Rescue (1997),1.7407
+352,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+353,Drama,Free Willy 3: The Rescue (1997),1.7407
+354,Drama,Free Willy 3: The Rescue (1997),1.7407
+355,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+356,Drama,Free Willy 3: The Rescue (1997),1.7407
+357,Comedy,Ed (1996),1.3333
+358,Drama,Free Willy 3: The Rescue (1997),1.7407
+359,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+360,Drama,Free Willy 3: The Rescue (1997),1.7407
+361,Drama,Free Willy 3: The Rescue (1997),1.7407
+362,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+363,Drama,Free Willy 3: The Rescue (1997),1.7407
+364,Drama,Free Willy 3: The Rescue (1997),1.7407
+365,Drama,Free Willy 3: The Rescue (1997),1.7407
+366,Horror,Amityville 1992: It's About Time (1992),1
+367,Horror,Amityville 1992: It's About Time (1992),1
+368,Horror,Amityville 1992: It's About Time (1992),1
+369,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+370,Drama,Free Willy 3: The Rescue (1997),1.7407
+371,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+372,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+373,Drama,Free Willy 3: The Rescue (1997),1.7407
+374,Drama,Dangerous Ground (1997),1.75
+375,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+376,Drama,Free Willy 3: The Rescue (1997),1.7407
+377,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+378,Drama,Free Willy 3: The Rescue (1997),1.7407
+379,Comedy,Ed (1996),1.3333
+380,Drama,Free Willy 3: The Rescue (1997),1.7407
+381,Drama,Free Willy 3: The Rescue (1997),1.7407
+382,Drama,Free Willy 3: The Rescue (1997),1.7407
+383,Drama,Free Willy 3: The Rescue (1997),1.7407
+384,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+385,Drama,Free Willy 3: The Rescue (1997),1.7407
+386,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+387,Drama,Free Willy 3: The Rescue (1997),1.7407
+388,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+389,Comedy,Ed (1996),1.3333
+390,Drama,Free Willy 3: The Rescue (1997),1.7407
+391,Drama,Free Willy 3: The Rescue (1997),1.7407
+392,Drama,Free Willy 3: The Rescue (1997),1.7407
+393,Comedy,Ed (1996),1.3333
+394,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+395,Drama,Free Willy 3: The Rescue (1997),1.7407
+396,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+397,Drama,Dangerous Ground (1997),1.75
+398,Comedy,Ed (1996),1.3333
+399,Drama,Free Willy 3: The Rescue (1997),1.7407
+400,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+401,Drama,Free Willy 3: The Rescue (1997),1.7407
+402,Drama,Free Willy 3: The Rescue (1997),1.7407
+403,Comedy,Ed (1996),1.3333
+404,Drama,Free Willy 3: The Rescue (1997),1.7407
+405,Drama,Free Willy 3: The Rescue (1997),1.7407
+406,Drama,Free Willy 3: The Rescue (1997),1.7407
+407,Comedy,Ed (1996),1.3333
+408,Drama,Free Willy 3: The Rescue (1997),1.7407
+409,Drama,Free Willy 3: The Rescue (1997),1.7407
+410,Drama,Free Willy 3: The Rescue (1997),1.7407
+411,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+412,Drama,Free Willy 3: The Rescue (1997),1.7407
+413,Drama,Free Willy 3: The Rescue (1997),1.7407
+414,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+415,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+416,Drama,Free Willy 3: The Rescue (1997),1.7407
+417,Comedy,Ed (1996),1.3333
+418,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+419,Romance,Vampire in Brooklyn (1995),1.8333
+420,Drama,Free Willy 3: The Rescue (1997),1.7407
+421,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+422,Drama,Free Willy 3: The Rescue (1997),1.7407
+423,Drama,Free Willy 3: The Rescue (1997),1.7407
+424,Drama,Free Willy 3: The Rescue (1997),1.7407
+425,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+426,Drama,Free Willy 3: The Rescue (1997),1.7407
+427,Drama,Free Willy 3: The Rescue (1997),1.7407
+428,Drama,Free Willy 3: The Rescue (1997),1.7407
+429,Drama,Dangerous Ground (1997),1.75
+430,Drama,Free Willy 3: The Rescue (1997),1.7407
+431,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+432,Comedy,Ed (1996),1.3333
+433,Drama,Dangerous Ground (1997),1.75
+434,Comedy,Ed (1996),1.3333
+435,Comedy,Ed (1996),1.3333
+436,Drama,Free Willy 3: The Rescue (1997),1.7407
+437,Drama,Free Willy 3: The Rescue (1997),1.7407
+438,Comedy,Ed (1996),1.3333
+439,Drama,Free Willy 3: The Rescue (1997),1.7407
+440,Drama,Free Willy 3: The Rescue (1997),1.7407
+441,Comedy,Ed (1996),1.3333
+442,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+443,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+444,Drama,Free Willy 3: The Rescue (1997),1.7407
+445,Drama,Free Willy 3: The Rescue (1997),1.7407
+446,Drama,Free Willy 3: The Rescue (1997),1.7407
+447,Drama,Free Willy 3: The Rescue (1997),1.7407
+448,Drama,Free Willy 3: The Rescue (1997),1.7407
+449,Drama,Free Willy 3: The Rescue (1997),1.7407
+450,Drama,Dangerous Ground (1997),1.75
+451,Drama,Dangerous Ground (1997),1.75
+452,Drama,Free Willy 3: The Rescue (1997),1.7407
+453,Drama,Free Willy 3: The Rescue (1997),1.7407
+454,Drama,Free Willy 3: The Rescue (1997),1.7407
+455,Drama,Free Willy 3: The Rescue (1997),1.7407
+456,Drama,Free Willy 3: The Rescue (1997),1.7407
+457,Drama,Free Willy 3: The Rescue (1997),1.7407
+458,Drama,Free Willy 3: The Rescue (1997),1.7407
+459,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+460,Drama,Free Willy 3: The Rescue (1997),1.7407
+461,Comedy,Ed (1996),1.3333
+462,Drama,Free Willy 3: The Rescue (1997),1.7407
+463,Drama,Free Willy 3: The Rescue (1997),1.7407
+464,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+465,Drama,Free Willy 3: The Rescue (1997),1.7407
+466,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+467,Drama,Free Willy 3: The Rescue (1997),1.7407
+468,Drama,Free Willy 3: The Rescue (1997),1.7407
+469,Drama,Free Willy 3: The Rescue (1997),1.7407
+470,Drama,Free Willy 3: The Rescue (1997),1.7407
+471,Childrens,3 Ninjas: High Noon At Mega Mountain (1998),1
+472,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+473,Drama,Free Willy 3: The Rescue (1997),1.7407
+474,Drama,Free Willy 3: The Rescue (1997),1.7407
+475,Drama,Free Willy 3: The Rescue (1997),1.7407
+476,Comedy,Ed (1996),1.3333
+477,Romance,Vampire in Brooklyn (1995),1.8333
+478,Comedy,Ed (1996),1.3333
+479,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+480,Drama,Free Willy 3: The Rescue (1997),1.7407
+481,Comedy,Ed (1996),1.3333
+482,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+483,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+484,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+485,Drama,Free Willy 3: The Rescue (1997),1.7407
+486,Drama,Free Willy 3: The Rescue (1997),1.7407
+487,Drama,Free Willy 3: The Rescue (1997),1.7407
+488,Drama,Free Willy 3: The Rescue (1997),1.7407
+489,Drama,Dangerous Ground (1997),1.75
+490,Drama,Free Willy 3: The Rescue (1997),1.7407
+491,Drama,Free Willy 3: The Rescue (1997),1.7407
+492,Drama,Free Willy 3: The Rescue (1997),1.7407
+493,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+494,Drama,Free Willy 3: The Rescue (1997),1.7407
+495,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+496,Drama,Free Willy 3: The Rescue (1997),1.7407
+497,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+498,Drama,Free Willy 3: The Rescue (1997),1.7407
+499,Drama,Free Willy 3: The Rescue (1997),1.7407
+500,Drama,Free Willy 3: The Rescue (1997),1.7407
+501,Drama,Free Willy 3: The Rescue (1997),1.7407
+502,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+503,Drama,Free Willy 3: The Rescue (1997),1.7407
+504,Drama,Free Willy 3: The Rescue (1997),1.7407
+505,Drama,Free Willy 3: The Rescue (1997),1.7407
+506,Comedy,Ed (1996),1.3333
+507,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+508,Comedy,Ed (1996),1.3333
+509,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+510,Drama,Dangerous Ground (1997),1.75
+511,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+512,Drama,Free Willy 3: The Rescue (1997),1.7407
+513,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+514,Drama,Free Willy 3: The Rescue (1997),1.7407
+515,Drama,Free Willy 3: The Rescue (1997),1.7407
+516,Drama,Free Willy 3: The Rescue (1997),1.7407
+517,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+518,Drama,Free Willy 3: The Rescue (1997),1.7407
+519,Drama,Free Willy 3: The Rescue (1997),1.7407
+520,Drama,Free Willy 3: The Rescue (1997),1.7407
+521,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+522,Drama,Free Willy 3: The Rescue (1997),1.7407
+523,Comedy,Ed (1996),1.3333
+524,Drama,Free Willy 3: The Rescue (1997),1.7407
+525,Drama,Free Willy 3: The Rescue (1997),1.7407
+526,Drama,Free Willy 3: The Rescue (1997),1.7407
+527,Drama,Free Willy 3: The Rescue (1997),1.7407
+528,Comedy,Ed (1996),1.3333
+529,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+530,Drama,Free Willy 3: The Rescue (1997),1.7407
+531,Drama,Dangerous Ground (1997),1.75
+532,Drama,Free Willy 3: The Rescue (1997),1.7407
+533,Drama,Free Willy 3: The Rescue (1997),1.7407
+534,Comedy,Ed (1996),1.3333
+535,Drama,Free Willy 3: The Rescue (1997),1.7407
+536,Drama,Free Willy 3: The Rescue (1997),1.7407
+537,Drama,Dangerous Ground (1997),1.75
+538,Drama,Free Willy 3: The Rescue (1997),1.7407
+539,Drama,Free Willy 3: The Rescue (1997),1.7407
+540,Drama,Free Willy 3: The Rescue (1997),1.7407
+541,Comedy,Ed (1996),1.3333
+542,Comedy,Ed (1996),1.3333
+543,Drama,Free Willy 3: The Rescue (1997),1.7407
+544,Drama,Free Willy 3: The Rescue (1997),1.7407
+545,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+546,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+547,Drama,Free Willy 3: The Rescue (1997),1.7407
+548,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+549,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+550,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+551,Drama,Free Willy 3: The Rescue (1997),1.7407
+552,Comedy,Ed (1996),1.3333
+553,Drama,Free Willy 3: The Rescue (1997),1.7407
+554,Drama,Free Willy 3: The Rescue (1997),1.7407
+555,Comedy,Ed (1996),1.3333
+556,Drama,Free Willy 3: The Rescue (1997),1.7407
+557,Drama,Free Willy 3: The Rescue (1997),1.7407
+558,Drama,Free Willy 3: The Rescue (1997),1.7407
+559,Drama,Free Willy 3: The Rescue (1997),1.7407
+560,Drama,Free Willy 3: The Rescue (1997),1.7407
+561,Drama,Free Willy 3: The Rescue (1997),1.7407
+562,Drama,Free Willy 3: The Rescue (1997),1.7407
+563,Comedy,Ed (1996),1.3333
+564,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+565,Drama,Free Willy 3: The Rescue (1997),1.7407
+566,Drama,Free Willy 3: The Rescue (1997),1.7407
+567,Drama,Free Willy 3: The Rescue (1997),1.7407
+568,Drama,Free Willy 3: The Rescue (1997),1.7407
+569,Drama,Free Willy 3: The Rescue (1997),1.7407
+570,Drama,Free Willy 3: The Rescue (1997),1.7407
+571,Drama,Free Willy 3: The Rescue (1997),1.7407
+572,Drama,Free Willy 3: The Rescue (1997),1.7407
+573,Drama,Free Willy 3: The Rescue (1997),1.7407
+574,Drama,Free Willy 3: The Rescue (1997),1.7407
+575,Drama,Free Willy 3: The Rescue (1997),1.7407
+576,Drama,Free Willy 3: The Rescue (1997),1.7407
+577,Comedy,Ed (1996),1.3333
+578,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+579,Comedy,Ed (1996),1.3333
+580,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+581,Drama,Free Willy 3: The Rescue (1997),1.7407
+582,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+583,Drama,Free Willy 3: The Rescue (1997),1.7407
+584,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+585,Drama,Free Willy 3: The Rescue (1997),1.7407
+586,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+587,Drama,Free Willy 3: The Rescue (1997),1.7407
+588,Drama,Free Willy 3: The Rescue (1997),1.7407
+589,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+590,Drama,Free Willy 3: The Rescue (1997),1.7407
+591,Comedy,Ed (1996),1.3333
+592,Drama,Dangerous Ground (1997),1.75
+593,Drama,Free Willy 3: The Rescue (1997),1.7407
+594,Drama,Free Willy 3: The Rescue (1997),1.7407
+595,Drama,Free Willy 3: The Rescue (1997),1.7407
+596,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+597,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+598,Drama,Free Willy 3: The Rescue (1997),1.7407
+599,Romance,Vampire in Brooklyn (1995),1.8333
+600,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+601,Drama,Free Willy 3: The Rescue (1997),1.7407
+602,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+603,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+604,Horror,Amityville: A New Generation (1993),1
+605,Drama,Free Willy 3: The Rescue (1997),1.7407
+606,Drama,Free Willy 3: The Rescue (1997),1.7407
+607,Drama,Free Willy 3: The Rescue (1997),1.7407
+608,Drama,Free Willy 3: The Rescue (1997),1.7407
+609,Comedy,Ed (1996),1.3333
+610,Drama,Free Willy 3: The Rescue (1997),1.7407
+611,Drama,Free Willy 3: The Rescue (1997),1.7407
+612,Comedy,Ed (1996),1.3333
+613,Drama,Free Willy 3: The Rescue (1997),1.7407
+614,Drama,Free Willy 3: The Rescue (1997),1.7407
+615,Drama,Free Willy 3: The Rescue (1997),1.7407
+616,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+617,Horror,Amityville: A New Generation (1993),1
+618,Drama,Free Willy 3: The Rescue (1997),1.7407
+619,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+620,Childrens,3 Ninjas: High Noon At Mega Mountain (1998),1
+621,Comedy,Ed (1996),1.3333
+622,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+623,Comedy,Ed (1996),1.3333
+624,Drama,Free Willy 3: The Rescue (1997),1.7407
+625,Drama,Free Willy 3: The Rescue (1997),1.7407
+626,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+627,Drama,Free Willy 3: The Rescue (1997),1.7407
+628,Drama,Free Willy 3: The Rescue (1997),1.7407
+629,Drama,Free Willy 3: The Rescue (1997),1.7407
+630,Drama,Free Willy 3: The Rescue (1997),1.7407
+631,Drama,Free Willy 3: The Rescue (1997),1.7407
+632,Drama,Free Willy 3: The Rescue (1997),1.7407
+633,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+634,Drama,Free Willy 3: The Rescue (1997),1.7407
+635,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+636,Drama,Free Willy 3: The Rescue (1997),1.7407
+637,Drama,Free Willy 3: The Rescue (1997),1.7407
+638,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+639,Drama,Free Willy 3: The Rescue (1997),1.7407
+640,Comedy,Ed (1996),1.3333
+641,Drama,Free Willy 3: The Rescue (1997),1.7407
+642,Comedy,Theodore Rex (1995),1.4
+643,Comedy,Ed (1996),1.3333
+644,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+645,Drama,Free Willy 3: The Rescue (1997),1.7407
+646,Drama,Free Willy 3: The Rescue (1997),1.7407
+647,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+648,Comedy,Ed (1996),1.3333
+649,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+650,Drama,Free Willy 3: The Rescue (1997),1.7407
+651,Drama,Free Willy 3: The Rescue (1997),1.7407
+652,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+653,Drama,Free Willy 3: The Rescue (1997),1.7407
+654,Drama,Free Willy 3: The Rescue (1997),1.7407
+655,Drama,Free Willy 3: The Rescue (1997),1.7407
+656,Drama,Free Willy 3: The Rescue (1997),1.7407
+657,Drama,Free Willy 3: The Rescue (1997),1.7407
+658,Drama,Free Willy 3: The Rescue (1997),1.7407
+659,Drama,Free Willy 3: The Rescue (1997),1.7407
+660,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+661,Drama,Free Willy 3: The Rescue (1997),1.7407
+662,Drama,Free Willy 3: The Rescue (1997),1.7407
+663,Drama,Free Willy 3: The Rescue (1997),1.7407
+664,Drama,Free Willy 3: The Rescue (1997),1.7407
+665,Drama,Free Willy 3: The Rescue (1997),1.7407
+666,Drama,Free Willy 3: The Rescue (1997),1.7407
+667,Drama,Free Willy 3: The Rescue (1997),1.7407
+668,Drama,Free Willy 3: The Rescue (1997),1.7407
+669,Drama,Free Willy 3: The Rescue (1997),1.7407
+670,Drama,Free Willy 3: The Rescue (1997),1.7407
+671,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+672,Comedy,Ed (1996),1.3333
+673,Drama,Free Willy 3: The Rescue (1997),1.7407
+674,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+675,Drama,Free Willy 3: The Rescue (1997),1.7407
+676,Comedy,Ed (1996),1.3333
+677,Drama,Dangerous Ground (1997),1.75
+678,Drama,Free Willy 3: The Rescue (1997),1.7407
+679,Comedy,Ed (1996),1.3333
+680,Drama,Free Willy 3: The Rescue (1997),1.7407
+681,Drama,Free Willy 3: The Rescue (1997),1.7407
+682,Drama,Free Willy 3: The Rescue (1997),1.7407
+683,Drama,Free Willy 3: The Rescue (1997),1.7407
+684,Comedy,Ed (1996),1.3333
+685,Drama,Free Willy 3: The Rescue (1997),1.7407
+686,Drama,Free Willy 3: The Rescue (1997),1.7407
+687,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+688,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+689,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+690,Comedy,Ed (1996),1.3333
+691,Drama,Free Willy 3: The Rescue (1997),1.7407
+692,Comedy,Ed (1996),1.3333
+693,Drama,Free Willy 3: The Rescue (1997),1.7407
+694,Drama,Free Willy 3: The Rescue (1997),1.7407
+695,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+696,Drama,Free Willy 3: The Rescue (1997),1.7407
+697,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+698,Drama,Free Willy 3: The Rescue (1997),1.7407
+699,Drama,Free Willy 3: The Rescue (1997),1.7407
+700,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+701,Drama,Free Willy 3: The Rescue (1997),1.7407
+702,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+703,Drama,Free Willy 3: The Rescue (1997),1.7407
+704,Drama,Free Willy 3: The Rescue (1997),1.7407
+705,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+706,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+707,Drama,Free Willy 3: The Rescue (1997),1.7407
+708,Comedy,Ed (1996),1.3333
+709,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+710,Drama,Free Willy 3: The Rescue (1997),1.7407
+711,Drama,Free Willy 3: The Rescue (1997),1.7407
+712,Comedy,Ed (1996),1.3333
+713,Drama,Free Willy 3: The Rescue (1997),1.7407
+714,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+715,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+716,Drama,Free Willy 3: The Rescue (1997),1.7407
+717,Drama,Free Willy 3: The Rescue (1997),1.7407
+718,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+719,Drama,Free Willy 3: The Rescue (1997),1.7407
+720,Drama,Free Willy 3: The Rescue (1997),1.7407
+721,Drama,Dangerous Ground (1997),1.75
+722,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+723,Drama,Free Willy 3: The Rescue (1997),1.7407
+724,Drama,Free Willy 3: The Rescue (1997),1.7407
+725,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+726,Comedy,Ed (1996),1.3333
+727,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+728,Drama,Free Willy 3: The Rescue (1997),1.7407
+729,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+730,Drama,Free Willy 3: The Rescue (1997),1.7407
+731,Drama,Free Willy 3: The Rescue (1997),1.7407
+732,Drama,Free Willy 3: The Rescue (1997),1.7407
+733,Drama,Free Willy 3: The Rescue (1997),1.7407
+734,Drama,Free Willy 3: The Rescue (1997),1.7407
+735,Drama,Free Willy 3: The Rescue (1997),1.7407
+736,Drama,Free Willy 3: The Rescue (1997),1.7407
+737,Drama,Free Willy 3: The Rescue (1997),1.7407
+738,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+739,Drama,Free Willy 3: The Rescue (1997),1.7407
+740,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+741,Comedy,Ed (1996),1.3333
+742,Drama,Free Willy 3: The Rescue (1997),1.7407
+743,Drama,Free Willy 3: The Rescue (1997),1.7407
+744,Drama,Free Willy 3: The Rescue (1997),1.7407
+745,Drama,Free Willy 3: The Rescue (1997),1.7407
+746,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+747,Drama,Free Willy 3: The Rescue (1997),1.7407
+748,Drama,Free Willy 3: The Rescue (1997),1.7407
+749,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+750,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+751,Comedy,Ed (1996),1.3333
+752,Drama,Free Willy 3: The Rescue (1997),1.7407
+753,Drama,Free Willy 3: The Rescue (1997),1.7407
+754,Drama,Free Willy 3: The Rescue (1997),1.7407
+755,Drama,Free Willy 3: The Rescue (1997),1.7407
+756,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+757,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+758,Drama,Free Willy 3: The Rescue (1997),1.7407
+759,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+760,Romance,Vampire in Brooklyn (1995),1.8333
+761,Drama,Dangerous Ground (1997),1.75
+762,Romance,Vampire in Brooklyn (1995),1.8333
+763,Drama,Free Willy 3: The Rescue (1997),1.7407
+764,Drama,Free Willy 3: The Rescue (1997),1.7407
+765,Drama,Free Willy 3: The Rescue (1997),1.7407
+766,Drama,Free Willy 3: The Rescue (1997),1.7407
+767,Drama,Free Willy 3: The Rescue (1997),1.7407
+768,Drama,Free Willy 3: The Rescue (1997),1.7407
+769,Comedy,Ed (1996),1.3333
+770,Drama,Free Willy 3: The Rescue (1997),1.7407
+771,Comedy,Ed (1996),1.3333
+772,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+773,Drama,Free Willy 3: The Rescue (1997),1.7407
+774,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+775,Drama,Free Willy 3: The Rescue (1997),1.7407
+776,Horror,Children of the Corn: The Gathering (1996),1.3158
+777,Drama,Free Willy 3: The Rescue (1997),1.7407
+778,Drama,Free Willy 3: The Rescue (1997),1.7407
+779,Comedy,Ed (1996),1.3333
+780,Drama,Free Willy 3: The Rescue (1997),1.7407
+781,Drama,Free Willy 3: The Rescue (1997),1.7407
+782,Drama,Free Willy 3: The Rescue (1997),1.7407
+783,Drama,Free Willy 3: The Rescue (1997),1.7407
+784,Drama,Free Willy 3: The Rescue (1997),1.7407
+785,Comedy,Ed (1996),1.3333
+786,Drama,Free Willy 3: The Rescue (1997),1.7407
+787,Drama,Free Willy 3: The Rescue (1997),1.7407
+788,Drama,Free Willy 3: The Rescue (1997),1.7407
+789,Drama,Free Willy 3: The Rescue (1997),1.7407
+790,Comedy,Ed (1996),1.3333
+791,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+792,Drama,Free Willy 3: The Rescue (1997),1.7407
+793,Drama,Free Willy 3: The Rescue (1997),1.7407
+794,Drama,Free Willy 3: The Rescue (1997),1.7407
+795,Comedy,Ed (1996),1.3333
+796,Drama,Free Willy 3: The Rescue (1997),1.7407
+797,Comedy,Ed (1996),1.3333
+798,Comedy,Ed (1996),1.3333
+799,Drama,Free Willy 3: The Rescue (1997),1.7407
+800,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+801,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+802,Horror,Amityville: A New Generation (1993),1
+803,Drama,Free Willy 3: The Rescue (1997),1.7407
+804,Comedy,Ed (1996),1.3333
+805,Comedy,Ed (1996),1.3333
+806,Drama,Free Willy 3: The Rescue (1997),1.7407
+807,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+808,Drama,Free Willy 3: The Rescue (1997),1.7407
+809,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+810,Comedy,Ed (1996),1.3333
+811,Drama,Free Willy 3: The Rescue (1997),1.7407
+812,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+813,Comedy,Ed (1996),1.3333
+814,Horror,Amityville: A New Generation (1993),1
+815,Drama,Free Willy 3: The Rescue (1997),1.7407
+816,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+817,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+818,Drama,Free Willy 3: The Rescue (1997),1.7407
+819,Drama,Free Willy 3: The Rescue (1997),1.7407
+820,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+821,Drama,Free Willy 3: The Rescue (1997),1.7407
+822,Comedy,Ed (1996),1.3333
+823,Drama,Free Willy 3: The Rescue (1997),1.7407
+824,Drama,Free Willy 3: The Rescue (1997),1.7407
+825,Drama,Free Willy 3: The Rescue (1997),1.7407
+826,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+827,Drama,Free Willy 3: The Rescue (1997),1.7407
+828,Drama,Free Willy 3: The Rescue (1997),1.7407
+829,Drama,Free Willy 3: The Rescue (1997),1.7407
+830,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+831,Drama,Free Willy 3: The Rescue (1997),1.7407
+832,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+833,Drama,Free Willy 3: The Rescue (1997),1.7407
+834,Drama,Free Willy 3: The Rescue (1997),1.7407
+835,Drama,Free Willy 3: The Rescue (1997),1.7407
+836,Drama,Free Willy 3: The Rescue (1997),1.7407
+837,Drama,Free Willy 3: The Rescue (1997),1.7407
+838,Drama,Free Willy 3: The Rescue (1997),1.7407
+839,Drama,Free Willy 3: The Rescue (1997),1.7407
+840,Drama,Free Willy 3: The Rescue (1997),1.7407
+841,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+842,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+843,Drama,Free Willy 3: The Rescue (1997),1.7407
+844,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+845,Drama,Free Willy 3: The Rescue (1997),1.7407
+846,Drama,Free Willy 3: The Rescue (1997),1.7407
+847,Comedy,Ed (1996),1.3333
+848,Drama,Free Willy 3: The Rescue (1997),1.7407
+849,Drama,Free Willy 3: The Rescue (1997),1.7407
+850,Comedy,Ed (1996),1.3333
+851,Drama,Free Willy 3: The Rescue (1997),1.7407
+852,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+853,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+854,Drama,Free Willy 3: The Rescue (1997),1.7407
+855,Drama,Free Willy 3: The Rescue (1997),1.7407
+856,Drama,Free Willy 3: The Rescue (1997),1.7407
+857,Drama,Free Willy 3: The Rescue (1997),1.7407
+858,Drama,Free Willy 3: The Rescue (1997),1.7407
+859,Drama,Free Willy 3: The Rescue (1997),1.7407
+860,Drama,Free Willy 3: The Rescue (1997),1.7407
+861,Drama,Free Willy 3: The Rescue (1997),1.7407
+862,Drama,Free Willy 3: The Rescue (1997),1.7407
+863,Drama,Free Willy 3: The Rescue (1997),1.7407
+864,Drama,Free Willy 3: The Rescue (1997),1.7407
+865,Comedy,Ed (1996),1.3333
+866,Drama,Free Willy 3: The Rescue (1997),1.7407
+867,Drama,Free Willy 3: The Rescue (1997),1.7407
+868,Comedy,Ed (1996),1.3333
+869,Drama,Free Willy 3: The Rescue (1997),1.7407
+870,Drama,Free Willy 3: The Rescue (1997),1.7407
+871,Drama,Free Willy 3: The Rescue (1997),1.7407
+872,Comedy,Ed (1996),1.3333
+873,Drama,Free Willy 3: The Rescue (1997),1.7407
+874,Drama,Free Willy 3: The Rescue (1997),1.7407
+875,Drama,Free Willy 3: The Rescue (1997),1.7407
+876,Drama,Free Willy 3: The Rescue (1997),1.7407
+877,Drama,Free Willy 3: The Rescue (1997),1.7407
+878,Drama,Free Willy 3: The Rescue (1997),1.7407
+879,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+880,Comedy,Ed (1996),1.3333
+881,Comedy,Ed (1996),1.3333
+882,Comedy,Ed (1996),1.3333
+883,Drama,Free Willy 3: The Rescue (1997),1.7407
+884,Drama,Free Willy 3: The Rescue (1997),1.7407
+885,Comedy,Ed (1996),1.3333
+886,Drama,Free Willy 3: The Rescue (1997),1.7407
+887,Comedy,Ed (1996),1.3333
+888,Romance,Vampire in Brooklyn (1995),1.8333
+889,Drama,Free Willy 3: The Rescue (1997),1.7407
+890,Drama,Free Willy 3: The Rescue (1997),1.7407
+891,Drama,Free Willy 3: The Rescue (1997),1.7407
+892,Comedy,Ed (1996),1.3333
+893,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+894,Drama,Free Willy 3: The Rescue (1997),1.7407
+895,Romance,Vampire in Brooklyn (1995),1.8333
+896,Drama,Free Willy 3: The Rescue (1997),1.7407
+897,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+898,Drama,Free Willy 3: The Rescue (1997),1.7407
+899,Drama,Free Willy 3: The Rescue (1997),1.7407
+900,Drama,Free Willy 3: The Rescue (1997),1.7407
+901,Comedy,Ed (1996),1.3333
+902,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+903,Drama,Free Willy 3: The Rescue (1997),1.7407
+904,Romance,Vampire in Brooklyn (1995),1.8333
+905,Drama,Free Willy 3: The Rescue (1997),1.7407
+906,Drama,Free Willy 3: The Rescue (1997),1.7407
+907,Drama,Free Willy 3: The Rescue (1997),1.7407
+908,Drama,Free Willy 3: The Rescue (1997),1.7407
+909,Drama,Free Willy 3: The Rescue (1997),1.7407
+910,Drama,Free Willy 3: The Rescue (1997),1.7407
+911,Comedy,Ed (1996),1.3333
+912,Drama,Free Willy 3: The Rescue (1997),1.7407
+913,Drama,Free Willy 3: The Rescue (1997),1.7407
+914,Romance,Vampire in Brooklyn (1995),1.8333
+915,Drama,Free Willy 3: The Rescue (1997),1.7407
+916,Drama,Free Willy 3: The Rescue (1997),1.7407
+917,Drama,Free Willy 3: The Rescue (1997),1.7407
+918,Drama,Free Willy 3: The Rescue (1997),1.7407
+919,Drama,Free Willy 3: The Rescue (1997),1.7407
+920,Drama,Free Willy 3: The Rescue (1997),1.7407
+921,Comedy,Theodore Rex (1995),1.4
+922,Comedy,Ed (1996),1.3333
+923,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+924,Drama,Free Willy 3: The Rescue (1997),1.7407
+925,Thriller,Lawnmower Man 2: Beyond Cyberspace (1996),1.7143
+926,Drama,Free Willy 3: The Rescue (1997),1.7407
+927,Comedy,Ed (1996),1.3333
+928,Drama,Free Willy 3: The Rescue (1997),1.7407
+929,Drama,Free Willy 3: The Rescue (1997),1.7407
+930,Comedy,Ed (1996),1.3333
+931,Drama,Free Willy 3: The Rescue (1997),1.7407
+932,Drama,Free Willy 3: The Rescue (1997),1.7407
+933,Comedy,Ed (1996),1.3333
+934,Drama,Free Willy 3: The Rescue (1997),1.7407
+935,Drama,Free Willy 3: The Rescue (1997),1.7407
+936,Drama,Free Willy 3: The Rescue (1997),1.7407
+937,Drama,Free Willy 3: The Rescue (1997),1.7407
+938,Comedy,Ed (1996),1.3333
+939,Drama,Free Willy 3: The Rescue (1997),1.7407
+940,Drama,Free Willy 3: The Rescue (1997),1.7407
+941,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
+942,Drama,Free Willy 3: The Rescue (1997),1.7407
+943,Action,3 Ninjas: High Noon At Mega Mountain (1998),1
